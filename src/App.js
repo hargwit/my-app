@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
             className="App-link"
-            href="https://hargwit.com/blog/create-a-react-app-and-deploy-to-netlify"
+            href="https://hargwit.com/posts/create-a-react-app-and-deploy-to-netlify"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,7 +23,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://hargwit.com/blog"
+          href="https://hargwit.com/posts"
           target="_blank"
           rel="noopener noreferrer"
         >
