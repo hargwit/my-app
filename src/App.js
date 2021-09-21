@@ -23,7 +23,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://hargwit.com/posts"
+          href="https://hargwit.com"
           target="_blank"
           rel="noopener noreferrer"
         >
